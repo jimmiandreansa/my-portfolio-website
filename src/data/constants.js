@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/jimmiandreansa",
   resume:
-    "https://drive.google.com/file/d/1Xua23fbLQQ6WjQYyEa7Cl8p0cQITYcO0/view?usp=sharing",
+    "https://drive.google.com/file/d/1HfzaUXaXxXNz2GUfz6yhwHGA0cW-B8Lj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/jimmiandreansa/",
   twitter: "https://twitter.com/BioGraph07",
   insta: "https://www.instagram.com/jivvmae/",
@@ -198,7 +198,8 @@ export const experiences = [
       "Github",
       "PostgreSQL"
     ],
-    doc: "https://previews.dropbox.com/p/thumb/ACJ7DSoUKNKncoiiPeX3zokpYX5x18-ZHJuUzeNB4kcWpQl84jIZ1R-o-y4sjauAjeG4tMKsdzU9lAyurGDsOIdYb0tSmrjHExXvIacW7fdcDNl7hjadXT5r3KRf5t8wexgctMkJUCadAe7C8KwfZmooIGngZNaH2Tr9bQHpYly2RRwtHe4Kgtrjl6VHYfgt2l8WyzuY_MfAtWSTG8ygOOvdBCjAU8ez55nyXqH2l7WdRMnAIR-q-OogrQ4XVUQqPk4ujS2AANM6GvgKzcB4D_wiBumT7Kg7g_ti92JOeu3xvtiegyDpeFyysp1oDjgiDMi0HGOvivzpxBFvEaQ9LQNn/p.jpeg",
+    // doc: "https://previews.dropbox.com/p/thumb/ACJ7DSoUKNKncoiiPeX3zokpYX5x18-ZHJuUzeNB4kcWpQl84jIZ1R-o-y4sjauAjeG4tMKsdzU9lAyurGDsOIdYb0tSmrjHExXvIacW7fdcDNl7hjadXT5r3KRf5t8wexgctMkJUCadAe7C8KwfZmooIGngZNaH2Tr9bQHpYly2RRwtHe4Kgtrjl6VHYfgt2l8WyzuY_MfAtWSTG8ygOOvdBCjAU8ez55nyXqH2l7WdRMnAIR-q-OogrQ4XVUQqPk4ujS2AANM6GvgKzcB4D_wiBumT7Kg7g_ti92JOeu3xvtiegyDpeFyysp1oDjgiDMi0HGOvivzpxBFvEaQ9LQNn/p.jpeg",
+    doc: "https://previews.dropbox.com/p/thumb/ACKcYBWnvhIKukTUQ42B3dkwLk0fCQKS7xzH0wA6iCJG4X_MM6uz8kus5fWOSv-0PnD8Vx7BGPySWg_v_xuvfHoMfhTCXZH4EnMDBcoa9XAle9UcUy_j0y5w0HejAbV6OpYEOES0Gdyqv0Hq5I1Bk26qyhAWZbvkekUVkpxJrzeEzE8GSIWOXNvxW7EZblJiPonNElCb98seeq6Xa1CNFgAZtDu7q-v0KdtDnVumvLTJxNx1QCCmgT0i_Eh8jcphAjy-w3V5SjOy05jRDRA9hXyvzXw-dTpH-FzR6pccWgvZolOmymzMVRExOX9N3AEt_72NFZX2bYj_4-G0mpUKDP3c9RNOoBUXtgrwaf7_5D2FIQ/p.jpeg",
   },
   {
     id: 1,
@@ -215,7 +216,8 @@ export const experiences = [
       "Web Storage",
       "JavaScript"
     ],
-    doc: "https://previews.dropbox.com/p/thumb/ACJog4LBKr5St-QnNfLFACXgVB7c76PuEizNf3EavBw3rL_jeOQYPYzZU4oU8SyhPd3wYqdlNrEGSa1df54TesAgpHcNK1SXdJDsvxu-5-7IAqNCOctm83iJn5O3CpjfXUSCc5WYQ-iARIaWBByEFN88i7jDoVM-ykQLYySf7cuvGJJnQOoXAidiTsVpKSTjsvu1YWl39XTi-gORFZRbudh2oboGHkvye5YnZrLBu2-udQGIww-y3W9X0OI_h_uozljrKxyF-1CoQguWVToOTx2P1R2ymZlhkGzt7bTOmIoXg0ju7gPTZsmUUvdKS8UEr7L_H39q-kTFtAnQigrWNggH/p.jpeg",
+    // doc: "https://previews.dropbox.com/p/thumb/ACJog4LBKr5St-QnNfLFACXgVB7c76PuEizNf3EavBw3rL_jeOQYPYzZU4oU8SyhPd3wYqdlNrEGSa1df54TesAgpHcNK1SXdJDsvxu-5-7IAqNCOctm83iJn5O3CpjfXUSCc5WYQ-iARIaWBByEFN88i7jDoVM-ykQLYySf7cuvGJJnQOoXAidiTsVpKSTjsvu1YWl39XTi-gORFZRbudh2oboGHkvye5YnZrLBu2-udQGIww-y3W9X0OI_h_uozljrKxyF-1CoQguWVToOTx2P1R2ymZlhkGzt7bTOmIoXg0ju7gPTZsmUUvdKS8UEr7L_H39q-kTFtAnQigrWNggH/p.jpeg",
+    doc: "https://images.unsplash.com/photo-1506620195489-7839a134b1f3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8",
   },
   {
     id: 2,
@@ -243,7 +245,7 @@ export const experiences = [
       "HTML",
       "CSS",
     ],
-    doc: "https://previews.dropbox.com/p/thumb/ACJojNzVIdigkWy1_8-kj0lbkX9-lNaESeyneuaQRc9gwLQv0XgvIiRTtbWtu9i5B9rtGivW8j5yDbw-88N9V6vFDXppBhxy9KXahNM1ODdwjZejKo4zqDvLzL3scqo8GJt_aiP9Fnat9XDiQZJPW5j_7FaeTP7rrcKeM8osTZzjAgWK75gXFWr1hUZJMp13acq7pq1yA1QhBNcjaaRf5PM5eoLbhM6eQliGHLuQuPe0S3zREJ2tkk34TXXnViCU5AItw1R6ZLgrwkeEB8zsUm1eYl5s-bJEvOA-lsti4S-Y5-Swyf_OMzKQ5sDfBZ2tlN6oPciV0IGZLvJFml0w8elY/p.jpeg",
+    doc: "https://images.unsplash.com/photo-1706367733603-e2ba75579300?q=80&w=1351&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 4,
