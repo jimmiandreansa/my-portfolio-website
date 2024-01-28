@@ -443,7 +443,7 @@ export const projects = [
   //   ],
   // },
   {
-    id: 1,
+    id: 0,
     title: "Lamda Coffee",
     date: "Dec 2021 - Apr 2022",
     description:
@@ -467,6 +467,27 @@ export const projects = [
             linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
             github: "https://github.com/rishavchanda/",
           }
+        ],
+  },
+  {
+    id: 1,
+    title: "Danau Raja Apart",
+    date: "Apr 2023 - Jun 2023",
+    description:
+      "This website is aimed at a housing company in my place. This website is made with HTML, CSS, and JavaScript. This website has a service page and an apartment page where users can rent available apartments. It has an attractive appearance and is equipped with a search field that makes it easier for users to find apartments.",
+    image:
+      "https://images.unsplash.com/photo-1706437554887-48d1f4e9b4fb?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    tags: ["HTML 5", "CSS 3", "JavaScript", "Bootstrap 5"],
+    category: "web app",
+    github: "https://github.com/jimmiandreansa/d-apart",
+    webapp: "https://d-apart.vercel.app/",
+    member: [
+          {
+            name: "Jimmi Andreansa",
+            img: "https://avatars.githubusercontent.com/u/112039731?v=4",
+            linkedin: "https://www.linkedin.com/in/jimmiandreansa/",
+            github: "https://github.com/jimmiandreansa",
+          },
         ],
   },
   // {
