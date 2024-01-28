@@ -444,16 +444,30 @@ export const projects = [
   // },
   {
     id: 1,
-    title: "Lambda Coffee",
+    title: "Lamda Coffee",
     date: "Dec 2021 - Apr 2022",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "This coffeeshop website was created with HTML, CSS, and JavaScript. The app has a login page where users can sign in with their Google account. It has a feature for ordering and a menu page to view all the menus. It has an attractive appearance and is equipped with a basket feature and a search field so as to make this website user friendly.",
     image:
       "https://images.unsplash.com/photo-1706402352206-96e7580124d2?q=80&w=1596&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     tags: ["HTML 5", "CSS 3", "JavaScript", "Bootstrap 5"],
     category: "web app",
     github: "https://github.com/jimmiandreansa/lamdacoffee",
     webapp: "https://lamdacoffee.vercel.app/",
+    member: [
+          {
+            name: "Jimmi Andreansa",
+            img: "https://avatars.githubusercontent.com/u/112039731?v=4",
+            linkedin: "https://www.linkedin.com/in/jimmiandreansa/",
+            github: "https://github.com/jimmiandreansa",
+          },
+          {
+            name: "Rishav Chanda",
+            img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+            linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+            github: "https://github.com/rishavchanda/",
+          }
+        ],
   },
   // {
   //   id: 10,
