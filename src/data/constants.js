@@ -198,8 +198,7 @@ export const experiences = [
       "Github",
       "PostgreSQL"
     ],
-    // doc: "https://previews.dropbox.com/p/thumb/ACJ7DSoUKNKncoiiPeX3zokpYX5x18-ZHJuUzeNB4kcWpQl84jIZ1R-o-y4sjauAjeG4tMKsdzU9lAyurGDsOIdYb0tSmrjHExXvIacW7fdcDNl7hjadXT5r3KRf5t8wexgctMkJUCadAe7C8KwfZmooIGngZNaH2Tr9bQHpYly2RRwtHe4Kgtrjl6VHYfgt2l8WyzuY_MfAtWSTG8ygOOvdBCjAU8ez55nyXqH2l7WdRMnAIR-q-OogrQ4XVUQqPk4ujS2AANM6GvgKzcB4D_wiBumT7Kg7g_ti92JOeu3xvtiegyDpeFyysp1oDjgiDMi0HGOvivzpxBFvEaQ9LQNn/p.jpeg",
-    doc: "https://previews.dropbox.com/p/thumb/ACKcYBWnvhIKukTUQ42B3dkwLk0fCQKS7xzH0wA6iCJG4X_MM6uz8kus5fWOSv-0PnD8Vx7BGPySWg_v_xuvfHoMfhTCXZH4EnMDBcoa9XAle9UcUy_j0y5w0HejAbV6OpYEOES0Gdyqv0Hq5I1Bk26qyhAWZbvkekUVkpxJrzeEzE8GSIWOXNvxW7EZblJiPonNElCb98seeq6Xa1CNFgAZtDu7q-v0KdtDnVumvLTJxNx1QCCmgT0i_Eh8jcphAjy-w3V5SjOy05jRDRA9hXyvzXw-dTpH-FzR6pccWgvZolOmymzMVRExOX9N3AEt_72NFZX2bYj_4-G0mpUKDP3c9RNOoBUXtgrwaf7_5D2FIQ/p.jpeg",
+    doc: "https://images.unsplash.com/photo-1706398705612-f7068c0d4303?q=80&w=1409&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 1,
@@ -216,8 +215,7 @@ export const experiences = [
       "Web Storage",
       "JavaScript"
     ],
-    // doc: "https://previews.dropbox.com/p/thumb/ACJog4LBKr5St-QnNfLFACXgVB7c76PuEizNf3EavBw3rL_jeOQYPYzZU4oU8SyhPd3wYqdlNrEGSa1df54TesAgpHcNK1SXdJDsvxu-5-7IAqNCOctm83iJn5O3CpjfXUSCc5WYQ-iARIaWBByEFN88i7jDoVM-ykQLYySf7cuvGJJnQOoXAidiTsVpKSTjsvu1YWl39XTi-gORFZRbudh2oboGHkvye5YnZrLBu2-udQGIww-y3W9X0OI_h_uozljrKxyF-1CoQguWVToOTx2P1R2ymZlhkGzt7bTOmIoXg0ju7gPTZsmUUvdKS8UEr7L_H39q-kTFtAnQigrWNggH/p.jpeg",
-    doc: "https://images.unsplash.com/photo-1506620195489-7839a134b1f3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8",
+    doc: "https://images.unsplash.com/photo-1706398705727-2cbc5a246329?q=80&w=1420&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 2,
@@ -232,7 +230,7 @@ export const experiences = [
       "Responsive Layout",
       "Flexbox"
     ],
-    doc: "https://previews.dropbox.com/p/thumb/ACK5IOlWYPxviLMbsPdWNLiyEpBm5O8kwLc9XnQKBaZnzSCWSLvTP7rpyI2mftrJhEV6NBRRAhi_ZbK63aL-IBG5zpYT9eG22v90lRrn4vM05eRguYIFFfO2NJV0rouFfc4kDpH9ydiJBMR5b9_AwnMXI2rNDXJACOfjvyJTSmCm49Zaobw3UbgC_AWcBLkRmod3Zd_WOr67XriJJTkfaFja6fH7-zpc0geVgmH1aNooUAlBvH1nEN8UOZnSnLx9bPwKxUrEMhdV3Bh-T8jMC50XfyeqPzR7a7BXWGoPicXHg6l7GtEf5U72HwU-kF__9iG4CsNPTiRxB0P-_ik6v8Vk/p.jpeg",
+    doc: "https://images.unsplash.com/photo-1706398705659-3194964ba132?q=80&w=1420&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 3,
@@ -262,7 +260,7 @@ export const experiences = [
       "Tailwind",
       "React JS"
     ],
-    doc: "https://previews.dropbox.com/p/thumb/ACKErnFexSPgIzUPVT55JzEK5rYQ9AidXs8n-hKQqz9Ne6UsE9iSCiTko_Fz_dbe6tmGm15r1NmqSpdmv7V1Rxvitb2eaqF-7XRLBz5XaHhaB2PquO1upueBk5tfwnAQbq6sGfJ5rF2DID0yw8Wy5TbeIQG66_h7-wtyuvm-Uyms8ShgqTEz9PpBkYrkeA0eGDTeDDCZXYSRalH2r2bmvks_ARUkqwrIEQ8zMxqaaqmpNe22SwgPANbPipwbJKndvaI1y6Is_PZfKq-sjkGF5rQ04ON8r35QcpAvs-B5roCJTlZ-6AWW1xNDBcz9Li1Ql5WIKxVt1NRqtaPQhxYqCYvH/p.jpeg",
+    doc: "https://images.unsplash.com/photo-1706399281093-9fcdbc981150?q=80&w=1421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 5,
@@ -276,11 +274,11 @@ export const experiences = [
       "AWS",
       "Database"
     ],
-    doc: "https://previews.dropbox.com/p/thumb/ACKaVzZ03NJD3Ir0SUIBxFzWX0O-hQi7Adrtj7ue5FCxkdIfgyLXDt9tF95xkvosq6cVprNg9vOVw5u99DviyKVOiIaieB_5tD8kF7USlYrBWHkU0SynoZ1WESJo73sbcR_g7ahmoSi6zIoMRA7oXiYFozAcNMPvRR2XUfG2gvfl6lwraFLswiAgQWVIs_O0zO9cQD9jPaDscPjAibm9okwPgtvpjpO961LD5v1f38OOr5Bihx3hNEUbB67fqV-ZqiAOAe-HaetdpBudquhvJXYyLsu5wBwotFtw8kJtsbP5kmM38Ex6g4x53ek-LK1GxK1zK9q9ZssdiesvwIYAWsJW/p.jpeg",
+    doc: "https://images.unsplash.com/photo-1706398705737-7d0ad3f332e9?q=80&w=1421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 6,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://th.bing.com/th/id/OIP.OCOzhk0Ki-rU_j_UlvoZCgAAAA?rs=1&pid=ImgDetMain",
     role: "Programmer at Kerja Praktek 2023",
     company: "MTs Persis 37 Sumedang",
     date: "June 2023 - July 2023",
@@ -291,27 +289,27 @@ export const experiences = [
       "Figma",
       "Bootstrap"
     ],
-    doc: "https://previews.dropbox.com/p/thumb/ACLU9ILFDEUybv0vqZWXVCDijEcgAYITRt0a6Lg_likJwat3oDbhwe_F6PyJk68xvFH_f_w8dkXhhougNvOu4LOZSCMcw6OYrCiFOyThHu7v_Q0M0qDMGbQgE3HevIUG37jjcYcd5-KDyh01jRshA0miO6_neDgI6HWAuJWVSkQ7YNo5LAW40FUJiJ5nyeWYiBpiUPgelTiDuCKYOdohegbEAvMdRRTGpQ4cuqRIv6_SOKC2vRgpjWSXG8Ao6gEk9ASCL6A8pv1x1cNO1CbZY1ajUKyVvMSG4kdnssTQxt_tk4KsGnzf-tNaTWHQby8FUlOnmWB9i0saf8vTVG3AWNVv/p.jpeg"
+    doc: "https://images.unsplash.com/photo-1706399081119-83ff1283d72d?q=80&w=1421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
-  {
-    id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-    role: "Android Developer Intern",
-    company: "Rudraksha Welffare Foundation",
-    date: "June 2021 - Oct 2021",
-    desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
-    skills: [
-      "Android",
-      "Java",
-      "Kotlin",
-      "XML",
-      "Node Js",
-      "Cloud Firestore",
-      "Firebase",
-      "Figma",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
-  },
+  // {
+  //   id: 4,
+  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
+  //   role: "Android Developer Intern",
+  //   company: "Rudraksha Welffare Foundation",
+  //   date: "June 2021 - Oct 2021",
+  //   desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
+  //   skills: [
+  //     "Android
+  //     "Java",
+  //     "Kotlin",
+  //     "XML",
+  //     "Node Js",
+  //     "Cloud Firestore",
+  //     "Firebase",
+  //     "Figma",
+  //   ],
+  //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
+  // },
 ];
 
 export const education = [
@@ -326,7 +324,8 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://th.bing.com/th/id/OIP.qkfk4SQTDS20GogCqj1VfAHaKd?pid=ImgDet&rs=1",
+    // img: "https://th.bing.com/th/id/OIP.qkfk4SQTDS20GogCqj1VfAHaKd?pid=ImgDet&rs=1",
+    img: "https://images.unsplash.com/photo-1706398261212-f6c5289d3b1f?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     school: "1 Senior High School, Indragiri Hulu",
     date: "2016 - 2019",
     grade: "88.2%",
@@ -335,7 +334,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Kemendikbud.svg/1200px-Logo_Kemendikbud.svg.png",
+    img: "https://th.bing.com/th/id/OIP.HHBPB_s2DIXuRxjsbCFhuAAAAA?rs=1&pid=ImgDetMain",
     school: "2 Junior High School, Rengat",
     date: "2013 - 2016",
     grade: "92.3%",
@@ -345,144 +344,144 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
-  },
-  {
-    id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
-  {
-    id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Present",
-    description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
-    ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
-  },
-  {
-    id: 2,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
   // {
-  //   id: 3,
-  //   title: "Buckoid",
-  //   date: "Dec 2021 - Apr 2022",
+  //   id: 9,
+  //   title: "Trackify",
+  //   date: "Jun 2023 - Jul 2023",
   //   description:
-  //     "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+  //     "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
   //   image:
-  //     "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-  //   tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Buckoid-Android-App",
-  //   webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+  //     "https://images.unsplash.com/photo-1706398705727-2cbc5a246329?q=80&w=1420&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  //   tags: [
+  //     "Docker",
+  //     "AWS",
+  //     "DuckDNS",
+  //     "Eslint",
+  //     "Husky",
+  //     "CI/CD",
+  //     "React Js",
+  //     "MongoDb",
+  //     "Node Js",
+  //     "Express Js",
+  //     "Redux",
+  //   ],
+  //   category: "web app",
+  //   github: "https://github.com/rishavchanda/Trackify",
+  //   webapp: "https://trackify.duckdns.org",
+  // },
+  // {
+  //   id: 0,
+  //   title: "Podstream",
+  //   date: "Apr 2023 - May 2023",
+  //   description:
+  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+  //   image:
+  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+  //   category: "web app",
+  //   github: "https://github.com/rishavchanda/Podstream",
+  //   webapp: "https://podstream.netlify.app/",
+  //   member: [
+  //     {
+  //       name: "Rishav Chanda",
+  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  //       github: "https://github.com/rishavchanda/",
+  //     },
+  //     {
+  //       name: "Upasana Chaudhuri",
+  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+  //       github: "https://github.com/upasana0710",
+  //     },
+  //   ],
+  // },
+  // {
+  //   id: 1,
+  //   title: "Vexa",
+  //   date: "Oct 2022 - Present",
+  //   description:
+  //     "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+  //   image:
+  //     "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+  //   tags: [
+  //     "React Js",
+  //     "MongoDb",
+  //     "Node Js",
+  //     "Express Js",
+  //     "Redux",
+  //     "NodeMailer",
+  //   ],
+  //   category: "web app",
+  //   github: "https://github.com/rishavchanda/Project-Management-App",
+  //   webapp: "https://vexa-app.netlify.app/",
+  // },
+  // {
+  //   id: 2,
+  //   title: "Brain Tumor Detection",
+  //   date: "Jan 2023 - Mar 2023",
+  //   description:
+  //     "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+  //   image:
+  //     "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+  //   category: "machine learning",
+  //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+  //   webapp: "https://brain-tumor.netlify.app/",
+  //   member: [
+  //     {
+  //       name: "Rishav Chanda",
+  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  //       github: "https://github.com/rishavchanda/",
+  //     },
+  //     {
+  //       name: "Upasana Chaudhuri",
+  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+  //       github: "https://github.com/upasana0710",
+  //     },
+  //   ],
   // },
   {
-    id: 10,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
+    id: 1,
+    title: "Lambda Coffee",
+    date: "Dec 2021 - Apr 2022",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
-  },
-  {
-    id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
-    description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+      "https://images.unsplash.com/photo-1706402352206-96e7580124d2?q=80&w=1596&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    tags: ["HTML 5", "CSS 3", "JavaScript", "Bootstrap 5"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    github: "https://github.com/jimmiandreansa/lamdacoffee",
+    webapp: "https://lamdacoffee.vercel.app/",
   },
+  // {
+  //   id: 10,
+  //   title: "Job Finding App",
+  //   date: "Jun 2023 - Jul 2023",
+  //   description:
+  //     "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+  //   image:
+  //     "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+  //   tags: ["HTML", "CSS", "JavaScript", "Axios"],
+  //   category: "android app",
+  //   github: "https://github.com/jimmiandreansa/lamdacoffee",
+  //   webapp: "https://lamdacoffee.vercel.app/",
+  // },
+  // {
+  //   id: 4,
+  //   title: "Whatsapp Clone",
+  //   date: "Jul 2021",
+  //   description:
+  //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+  //   image:
+  //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+  //   category: "web app",
+  //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+  //   webapp: "https://whatsapp-clone-rishav.web.app",
+  // },
   // {
   //   id: 5,
   //   title: "Todo Web App",
