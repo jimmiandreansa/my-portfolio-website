@@ -49,6 +49,7 @@ const Desc = styled.div`
     max-width: 600px;
     color: ${({ theme }) => theme.text_secondary};
     @media (max-width: 768px) {
+        padding: 0 8px;
         margin-top: 12px;
         font-size: 16px;
     }
@@ -118,9 +119,8 @@ const ContactButton = styled.input`
   color: ${({ theme }) => theme.text_primary};
   font-size: 18px;
   font-weight: 600;
+  cursor: pointer;
 `
-
-
 
 const Contact = () => {
 
@@ -130,7 +130,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_tox7kqs', 'template_nv7k7mj', form.current, 'SybVGsYS52j2TfLbi')
+    emailjs.sendForm('service_vgs9t0o', 'template_5p4wecu', form.current, '9sEbXJoEC6EQoOCVD')
       .then((result) => {
         setOpen(true);
         form.current.reset();
@@ -138,8 +138,6 @@ const Contact = () => {
         console.log(error.text);
       });
   }
-
-
 
   return (
     <Container>
